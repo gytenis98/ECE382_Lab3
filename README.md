@@ -7,6 +7,20 @@ ECE382_Lab3
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/nokialcd.JPG?raw=true "LCD")
 
+##Logic Analyzer
+
+![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/LogicAnalazer.JPG?raw=true "analyzer")
+
+![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/bitblock.bmp?raw=true "analyzer")
+
+![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/66.jpg?raw=true "analyzer")
+
+![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/294.jpg?raw=true "analyzer")
+
+![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/288.jpg?raw=true "analyzer")
+
+![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/276.jpg?raw=true "analyzer")
+
 
 Documentation
 
