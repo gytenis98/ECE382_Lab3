@@ -11,6 +11,10 @@ ECE382_Lab3
 
 ![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/LogicAnalazer.JPG?raw=true "analyzer")
 
+###Writing modes
+
+![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/bitblock.bmp?raw=true "analyzer")
+
 ##Waveforms
 
 ###Line 66
@@ -30,8 +34,6 @@ ECE382_Lab3
 ![294](https://github.com/gytenis98/ECE382_Lab3/blob/master/294.jpg?raw=true "294")
 
 
-
-![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/bitblock.bmp?raw=true "analyzer")
 
 
 
