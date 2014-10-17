@@ -11,16 +11,41 @@ ECE382_Lab3
 
 ![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/LogicAnalazer.JPG?raw=true "analyzer")
 
+##Waveforms
+
+#Line 66
+
+![66](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/66.jpg?raw=true "66")
+
+#Line 276
+
+![276](https://github.com/gytenis98/ECE382_Lab3/blob/master/276.jpg?raw=true "276")
+
+#Line 288
+
+![288](https://github.com/gytenis98/ECE382_Lab3/blob/master/288.jpg?raw=true "288")
+
+#Line 294
+
+![294](https://github.com/gytenis98/ECE382_Lab3/blob/master/294.jpg?raw=true "294")
+
+
+
 ![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/bitblock.bmp?raw=true "analyzer")
 
-![analyzer](https://raw.githubusercontent.com/gytenis98/ECE382_Lab3/master/66.jpg?raw=true "analyzer")
 
-![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/294.jpg?raw=true "analyzer")
 
-![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/288.jpg?raw=true "analyzer")
 
-![analyzer](https://github.com/gytenis98/ECE382_Lab3/blob/master/276.jpg?raw=true "analyzer")
 
+
+
+
+##Functionality
+
+Required functionality: Create a block on the LCD that is 8x8 pixels. The location of the block must be passed into the subroutine via r12 and r13. A functionality: Move the 8-pixel block one block in the direction of the pressed button (up, down, left, right).
+
+##Grading
+Required and A functionallity showed to Dr. York on time. 
 
 Documentation
 
